@@ -1,2 +1,2 @@
 # hello-world
-My hello world repository
+Hey, My name is Jacob and this is my first time using GitHub
